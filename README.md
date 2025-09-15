@@ -35,7 +35,7 @@ The dataset contains **55,000 synthetic customer transactions**, generated using
 ---
 
 ## 📂 Repository Contents
-- `SHABEEB PROJECT.xlsx` → The cleaned dataset, pivot tables, and final dashboard  
+- `Ecommerce_Sales_Dashboard.xlsx` → The cleaned dataset, pivot tables, and final dashboard  
 - `dashboard_screenshot.png` → Screenshot of the final Excel dashboard  
 
 ---
